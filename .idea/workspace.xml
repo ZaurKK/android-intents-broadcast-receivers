@@ -1927,7 +1927,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1498978286184" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1498978325344" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2048,7 +2048,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1498978286184" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1498978325345" />
       </method>
     </configuration>
     <list size="1">
@@ -2189,7 +2189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1498978264991</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update workspace.">
+      <created>1498978320140</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1498978320140</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2243,7 +2250,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update gradle, target and complile sd versions." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update gradle, target and complile sd versions." />
+    <MESSAGE value="Update workspace." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update workspace." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
